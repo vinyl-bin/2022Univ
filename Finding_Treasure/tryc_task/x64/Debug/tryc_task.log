@@ -1,0 +1,5 @@
+﻿  finding_Treasure.c
+C:\Users\강다빈\Desktop\대학교 과제\1학년\c프로그래밍\2학기\6조\c응용2\tryc_task\finding_Treasure.c(395,13): warning C4098: 'start': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\강다빈\Desktop\대학교 과제\1학년\c프로그래밍\2학기\6조\c응용2\tryc_task\finding_Treasure.c(183): warning C4716: 'map_ptf': 값을 반환해야 합니다.
+C:\Users\강다빈\Desktop\대학교 과제\1학년\c프로그래밍\2학기\6조\c응용2\tryc_task\finding_Treasure.c(421): warning C4715: 'keyControl': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  tryc_task.vcxproj -> C:\Users\강다빈\Desktop\대학교 과제\1학년\c프로그래밍\2학기\6조\c응용2\tryc_task\x64\Debug\tryc_task.exe

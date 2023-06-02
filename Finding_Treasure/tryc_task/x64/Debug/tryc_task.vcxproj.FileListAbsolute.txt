@@ -1,0 +1,2 @@
+C:\Users\강다빈\Desktop\c응용2\tryc_task\x64\Debug\tryc_task.exe
+C:\Users\강다빈\Desktop\대학교 과제\1학년\c프로그래밍\2학기\6조\c응용2\tryc_task\x64\Debug\tryc_task.exe
